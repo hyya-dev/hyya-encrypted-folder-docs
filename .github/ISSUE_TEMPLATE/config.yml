@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security problem
+    url: https://github.com/hyya-dev/hyya-encrypted-folder-docs/security/advisories/new
+    about: Privately, here or by email to security@hyya.com — please not as a public issue.
+  - name: Download hYYa Encrypted Folder
+    url: https://hyya.com/hyya-encrypted-folder.html
+    about: Get the app for Mac, iPhone, iPad and Android
+  - name: Contact hYYa
+    url: https://hyya.com/contact.html
+    about: For purchase or privacy questions

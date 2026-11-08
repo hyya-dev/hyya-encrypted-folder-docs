@@ -1,0 +1,16 @@
+name: Feature request
+description: Suggest something hYYa Encrypted Folder could do
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like?
+      description: What would it let you do that you can't do today?
+    validations: { required: true }
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      multiple: true
+      options: [Mac, iPhone, iPad, Android]
