@@ -4,7 +4,7 @@ All notable changes to hYYa Encrypted Folder. **→ [Download the latest version
 
 Each version is dated by the day it reached the store. Earlier versions are in the App Store's version history.
 
-## 2.3.7 — Mac 2026-11-07 · iPhone & iPad in App Store review
+## 2.3.7 — iPhone & iPad 2026-11-10 · Mac 2026-11-07
 
 - Needs macOS 26 or later on the Mac, and iOS or iPadOS 26 or later on iPhone and iPad.
 - This release contains general bug fixes and stability improvements.

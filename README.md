@@ -32,7 +32,7 @@ never what is inside.
 ## Platforms
 
 - **Mac** with Apple silicon, macOS 26 or later: Mac App Store
-- **iPhone and iPad**, iOS and iPadOS 17 or later (26 or later from version 2.3.7): App Store
+- **iPhone and iPad**, iOS and iPadOS 26 or later: App Store
 - **Android** phones and tablets, Android 8.1 or later: Google Play
 
 The iPhone, iPad and Mac apps are one App Store purchase. Folders kept in your own Google Drive open on
