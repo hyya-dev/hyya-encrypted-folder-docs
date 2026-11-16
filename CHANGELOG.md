@@ -4,6 +4,10 @@ All notable changes to hYYa Encrypted Folder. **→ [Download the latest version
 
 Each version is dated by the day it reached the store. Earlier versions are in the App Store's version history.
 
+## 2.4.0 — iPhone & iPad 2026-11-16
+
+- This release contains general bug fixes and stability improvements.
+
 ## 2.3.8 — iPhone & iPad 2026-11-10 · Mac 2026-11-10
 
 - This release contains general bug fixes and stability improvements.
