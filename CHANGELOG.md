@@ -8,7 +8,7 @@ Each version is dated by the day it reached the store. Earlier versions are in t
 
 - This release contains general bug fixes and stability improvements.
 
-## 2.4.0 — iPhone & iPad 2026-11-16
+## 2.4.0 — iPhone & iPad 2026-11-16 · Android 2026-11-19
 
 - This release contains general bug fixes and stability improvements.
 
