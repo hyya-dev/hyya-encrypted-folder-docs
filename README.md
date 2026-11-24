@@ -1,8 +1,8 @@
-# hYYa Encrypted Folder & Sync
+# hYYa Folder: Encrypted Sync
 
 **Your iCloud. Your Google Drive. Only your devices can read what's inside.**
 
-hYYa Encrypted Folder keeps your private files, photos, videos and documents in encrypted folders that
+hYYa Folder (until November 2026, hYYa Encrypted Folder) keeps your private files, photos, videos and documents in encrypted folders that
 only you can open, on Mac, iPhone, iPad and Android. Keep a folder on this device, in iCloud, or in your
 own Google Drive.
 

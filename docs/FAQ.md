@@ -32,6 +32,10 @@ Only to sync. Locking, unlocking and adding files all work offline.
 One check: Face ID, Touch ID, your fingerprint, or your device passcode or password. There is no
 separate password on each folder.
 
+**Where do I set my passphrase?**
+In **Settings → Security → Passphrase** (on the Mac, the **Security** tab). It needs at least 12 characters; a few words you'll
+remember work best. You set it once, on the device that made your folders, and enter the same passphrase once on each other device.
+
 **I forgot my passphrase. What now?**
 Your recovery key opens all your folders. Make one in **Settings** and keep it somewhere secure, away
 from the device. hYYa keeps no copy of this key and can't reset it.
