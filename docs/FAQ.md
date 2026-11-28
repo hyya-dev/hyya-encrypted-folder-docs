@@ -86,6 +86,8 @@ slot.
 **I bought Pro on my iPhone. Does it work on my Mac or Android?**
 On your Mac and iPad, yes: one App Store purchase covers iPhone, iPad and Mac. Google Play and the
 App Store are separate stores, so on Android Pro is a separate purchase.
+On a device without Pro from its own store, Google Drive sync covers the 2 folders you opened most
+recently there; your other folders still open, edit and export on that device. iCloud sync is not affected.
 
 **I reinstalled the app and Pro is gone.**
 Tap **Restore Purchases** on the Pro screen (on the Mac: **Settings → Plan → Restore purchase**), signed in with the same Apple Account or Google

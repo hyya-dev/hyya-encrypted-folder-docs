@@ -49,7 +49,8 @@ on the Mac. You can try Pro
 free for 7 days; nothing is charged automatically.
 
 Bought on the App Store, Pro unlocks your iPhone, iPad and Mac. On Android, Pro is a separate one-time
-purchase on Google Play.
+purchase on Google Play. On a device without Pro from its own store, Google Drive sync covers the 2 folders
+you opened most recently there; your other folders still open on that device.
 
 ## Privacy
 
